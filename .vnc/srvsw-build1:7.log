@@ -1,0 +1,974 @@
+03/03/20 16:16:54 Xvnc version TightVNC-1.3.10
+03/03/20 16:16:54 Copyright (C) 2000-2009 TightVNC Group
+03/03/20 16:16:54 Copyright (C) 1999 AT&T Laboratories Cambridge
+03/03/20 16:16:54 All Rights Reserved.
+03/03/20 16:16:54 See http://www.tightvnc.com/ for information on TightVNC
+03/03/20 16:16:54 Desktop name 'X' (srvsw-build1:7)
+03/03/20 16:16:54 Protocol versions supported: 3.3, 3.7, 3.8, 3.7t, 3.8t
+03/03/20 16:16:54 Listening for VNC connections on TCP port 5907
+Font directory '/usr/share/fonts/X11/75dpi/' not found - ignoring
+Font directory '/usr/share/fonts/X11/100dpi/' not found - ignoring
+No VNC extension on display :7
+
+** (gnome-panel:395758): WARNING **: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(gnome-panel:395758): Gtk-CRITICAL **: gtk_widget_get_preferred_height_for_width: assertion 'width >= 0' failed
+
+(gnome-panel:395758): Gtk-WARNING **: gtk_widget_size_allocate(): attempt to allocate widget with width -1 and height 24
+
+(nautilus:395761): Gtk-WARNING **: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+Window manager warning: Log level 32: could not find XKB extension.
+Window manager warning: Missing composite extension required for compositing
+
+(gnome-settings-daemon:395759): rfkill-plugin-WARNING **: Could not open RFKILL control device, please verify your installation
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Permission denied
+You do not have permission to create a usershare. Ask your administrator to grant you permissions to create a share.
+
+
+(gnome-settings-daemon:395759): media-keys-plugin-WARNING **: Unable to inhibit keypresses: GDBus.Error:org.freedesktop.DBus.Error.AccessDenied: Permission denied
+
+** (gnome-settings-daemon:395759): WARNING **: Unable to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+03/03/20 16:17:49 Got connection from client 10.32.25.13
+03/03/20 16:17:49 Using protocol version 3.8
+03/03/20 16:17:58 Full-control authentication passed by 10.32.25.13
+03/03/20 16:17:58 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+03/03/20 16:17:58 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+03/03/20 16:17:58 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+03/03/20 16:17:58 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+03/03/20 16:17:58 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+03/03/20 16:17:58 Using zlib encoding for client 10.32.25.13
+03/03/20 16:17:58 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+03/03/20 16:17:58 Enabling full-color cursor updates for client 10.32.25.13
+03/03/20 16:17:58 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+03/03/20 16:17:58 Pixel format for client 10.32.25.13:
+03/03/20 16:17:58   8 bpp, depth 6
+03/03/20 16:17:58   true colour: max r 3 g 3 b 3, shift r 4 g 2 b 0
+03/03/20 16:17:58 Using raw encoding for client 10.32.25.13
+03/03/20 16:17:58 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+03/03/20 16:17:58 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+03/03/20 16:17:58 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+03/03/20 16:17:58 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+03/03/20 16:17:58 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+03/03/20 16:17:58 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+03/03/20 16:17:58 Enabling full-color cursor updates for client 10.32.25.13
+03/03/20 16:17:58 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+03/03/20 16:17:58 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+03/03/20 16:17:58 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+03/03/20 16:17:58 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+03/03/20 16:17:58 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+03/03/20 16:17:58 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+03/03/20 16:17:58 Using zlib encoding for client 10.32.25.13
+03/03/20 16:17:58 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+03/03/20 16:17:58 Enabling full-color cursor updates for client 10.32.25.13
+03/03/20 16:17:58 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+03/03/20 16:17:58 Pixel format for client 10.32.25.13:
+03/03/20 16:17:58   32 bpp, depth 24, little endian
+03/03/20 16:17:58   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+03/03/20 16:17:58   no translation needed
+03/03/20 16:25:24 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+03/03/20 16:25:24 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+03/03/20 16:25:24 Using hextile encoding for client 10.32.25.13
+03/03/20 16:25:24 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+03/03/20 16:25:24 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+03/03/20 16:25:24 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+03/03/20 16:25:24 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+03/03/20 16:25:24 Enabling full-color cursor updates for client 10.32.25.13
+03/03/20 16:25:24 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+Xlib:  extension "RANDR" missing on display ":7".
+Xlib:  extension "RANDR" missing on display ":7".
+Xlib:  extension "RANDR" missing on display ":7".
+Xlib:  extension "RANDR" missing on display ":7".
+Xlib:  extension "XInputExtension" missing on display ":7".
+Window manager warning: Invalid WM_TRANSIENT_FOR window 0x3000002 specified for 0x3000001 (git-cola).
+X Error: BadValue (integer parameter out of range for operation) 2
+  Major opcode: 53 (X_CreatePixmap)
+  Resource id:  0x20
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 55 (X_CreateGC)
+  Resource id:  0x3000023
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 72 (X_PutImage)
+  Resource id:  0x3000023
+X Error: BadValue (integer parameter out of range for operation) 2
+  Major opcode: 53 (X_CreatePixmap)
+  Resource id:  0x20
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 72 (X_PutImage)
+  Resource id:  0x3000025
+X Error: BadValue (integer parameter out of range for operation) 2
+  Major opcode: 53 (X_CreatePixmap)
+  Resource id:  0x20
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 72 (X_PutImage)
+  Resource id:  0x3000026
+X Error: BadValue (integer parameter out of range for operation) 2
+  Major opcode: 53 (X_CreatePixmap)
+  Resource id:  0x20
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 72 (X_PutImage)
+  Resource id:  0x3000027
+X Error: BadValue (integer parameter out of range for operation) 2
+  Major opcode: 53 (X_CreatePixmap)
+  Resource id:  0x20
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 72 (X_PutImage)
+  Resource id:  0x3000028
+X Error: BadValue (integer parameter out of range for operation) 2
+  Major opcode: 53 (X_CreatePixmap)
+  Resource id:  0x20
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 72 (X_PutImage)
+  Resource id:  0x3000029
+X Error: BadValue (integer parameter out of range for operation) 2
+  Major opcode: 53 (X_CreatePixmap)
+  Resource id:  0x20
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 72 (X_PutImage)
+  Resource id:  0x300002a
+X Error: BadValue (integer parameter out of range for operation) 2
+  Major opcode: 53 (X_CreatePixmap)
+  Resource id:  0x20
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 72 (X_PutImage)
+  Resource id:  0x300002b
+03/03/20 17:28:55 Client 10.32.25.13 gone
+03/03/20 17:28:55 Statistics:
+03/03/20 17:28:55   key events received 0, pointer events 2895
+03/03/20 17:28:55   framebuffer updates 1502, rectangles 2375, bytes 10069344
+03/03/20 17:28:55     cursor shape updates 107, bytes 135682
+03/03/20 17:28:55     raw rectangles 1, bytes 16396
+03/03/20 17:28:55     hextile rectangles 2185, bytes 9694691
+03/03/20 17:28:55     zlib rectangles 82, bytes 222575
+03/03/20 17:28:55   raw bytes equivalent 131294188, compression ratio 13.217098
+
+06/03/20 08:54:50 Got connection from client 10.32.25.22
+06/03/20 08:54:50 Using protocol version 3.8
+06/03/20 08:54:54 Full-control authentication passed by 10.32.25.22
+06/03/20 08:54:54 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+06/03/20 08:54:54 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+06/03/20 08:54:54 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+06/03/20 08:54:54 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+06/03/20 08:54:54 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+06/03/20 08:54:54 Using zlib encoding for client 10.32.25.22
+06/03/20 08:54:54 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+06/03/20 08:54:54 Enabling full-color cursor updates for client 10.32.25.22
+06/03/20 08:54:54 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+06/03/20 08:54:54 Pixel format for client 10.32.25.22:
+06/03/20 08:54:54   8 bpp, depth 6
+06/03/20 08:54:54   true colour: max r 3 g 3 b 3, shift r 4 g 2 b 0
+06/03/20 08:54:54 Using raw encoding for client 10.32.25.22
+06/03/20 08:54:54 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+06/03/20 08:54:54 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+06/03/20 08:54:54 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+06/03/20 08:54:54 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+06/03/20 08:54:54 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+06/03/20 08:54:54 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+06/03/20 08:54:54 Enabling full-color cursor updates for client 10.32.25.22
+06/03/20 08:54:54 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+06/03/20 08:54:54 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+06/03/20 08:54:54 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+06/03/20 08:54:54 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+06/03/20 08:54:54 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+06/03/20 08:54:54 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+06/03/20 08:54:54 Using zlib encoding for client 10.32.25.22
+06/03/20 08:54:54 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+06/03/20 08:54:54 Enabling full-color cursor updates for client 10.32.25.22
+06/03/20 08:54:54 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+06/03/20 08:54:54 Pixel format for client 10.32.25.22:
+06/03/20 08:54:54   32 bpp, depth 24, little endian
+06/03/20 08:54:54   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+06/03/20 08:54:54   no translation needed
+06/03/20 08:55:02 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+06/03/20 08:55:02 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+06/03/20 08:55:02 Using hextile encoding for client 10.32.25.22
+06/03/20 08:55:02 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+06/03/20 08:55:02 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+06/03/20 08:55:02 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+06/03/20 08:55:02 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+06/03/20 08:55:02 Enabling full-color cursor updates for client 10.32.25.22
+06/03/20 08:55:02 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+06/03/20 08:57:32 KbdAddEvent: unknown KeySym 0xff61 - allocating KeyCode 89
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Permission denied
+You do not have permission to create a usershare. Ask your administrator to grant you permissions to create a share.
+
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Permission denied
+You do not have permission to create a usershare. Ask your administrator to grant you permissions to create a share.
+
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Permission denied
+You do not have permission to create a usershare. Ask your administrator to grant you permissions to create a share.
+
+Xlib:  extension "XINERAMA" missing on display ":7".
+Xlib:  extension "RANDR" missing on display ":7".
+
+(soffice:199764): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+Xlib:  extension "RANDR" missing on display ":7".
+
+(soffice:199774): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+:1: parser error : Document is empty
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCqeUMSuI3GbQFJdRzLmTP5aP6D/nStxygWTKLQUhug
+^
+:1: parser error : Document is empty
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCqeUMSuI3GbQFJdRzLmTP5aP6D/nStxygWTKLQUhug
+^
+:1: parser error : Document is empty
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCqeUMSuI3GbQFJdRzLmTP5aP6D/nStxygWTKLQUhug
+^
+
+(soffice:199774): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+
+(soffice:199774): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+
+** (nautilus:395761): WARNING **: bookmark uri is trash:///, but expected file:///home/nichole
+
+** (nautilus:395761): WARNING **: bookmark uri is file:///usr/share/example-content, but expected file:///home/nichole
+error: unable to execute 'git'
+error: please ensure that 'git' is in your $PATH
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Permission denied
+You do not have permission to create a usershare. Ask your administrator to grant you permissions to create a share.
+
+Xlib:  extension "XInputExtension" missing on display ":7".
+Window manager warning: Invalid WM_TRANSIENT_FOR window 0x3000002 specified for 0x3000001 (git-cola).
+X Error: BadValue (integer parameter out of range for operation) 2
+  Major opcode: 53 (X_CreatePixmap)
+  Resource id:  0x20
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 55 (X_CreateGC)
+  Resource id:  0x3000034
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 72 (X_PutImage)
+  Resource id:  0x3000034
+X Error: BadValue (integer parameter out of range for operation) 2
+  Major opcode: 53 (X_CreatePixmap)
+  Resource id:  0x20
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 72 (X_PutImage)
+  Resource id:  0x3000036
+X Error: BadValue (integer parameter out of range for operation) 2
+  Major opcode: 53 (X_CreatePixmap)
+  Resource id:  0x20
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 72 (X_PutImage)
+  Resource id:  0x3000037
+X Error: BadValue (integer parameter out of range for operation) 2
+  Major opcode: 53 (X_CreatePixmap)
+  Resource id:  0x20
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 72 (X_PutImage)
+  Resource id:  0x3000038
+X Error: BadValue (integer parameter out of range for operation) 2
+  Major opcode: 53 (X_CreatePixmap)
+  Resource id:  0x20
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 72 (X_PutImage)
+  Resource id:  0x3000039
+X Error: BadValue (integer parameter out of range for operation) 2
+  Major opcode: 53 (X_CreatePixmap)
+  Resource id:  0x20
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 72 (X_PutImage)
+  Resource id:  0x300003a
+X Error: BadValue (integer parameter out of range for operation) 2
+  Major opcode: 53 (X_CreatePixmap)
+  Resource id:  0x20
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 72 (X_PutImage)
+  Resource id:  0x300003b
+X Error: BadValue (integer parameter out of range for operation) 2
+  Major opcode: 53 (X_CreatePixmap)
+  Resource id:  0x20
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 72 (X_PutImage)
+  Resource id:  0x300003c
+X Error: BadPixmap (invalid Pixmap parameter) 4
+  Major opcode: 54 (X_FreePixmap)
+  Resource id:  0x3000034
+X Error: BadPixmap (invalid Pixmap parameter) 4
+  Major opcode: 54 (X_FreePixmap)
+  Resource id:  0x3000036
+X Error: BadPixmap (invalid Pixmap parameter) 4
+  Major opcode: 54 (X_FreePixmap)
+  Resource id:  0x3000037
+X Error: BadPixmap (invalid Pixmap parameter) 4
+  Major opcode: 54 (X_FreePixmap)
+  Resource id:  0x3000038
+X Error: BadPixmap (invalid Pixmap parameter) 4
+  Major opcode: 54 (X_FreePixmap)
+  Resource id:  0x3000039
+X Error: BadPixmap (invalid Pixmap parameter) 4
+  Major opcode: 54 (X_FreePixmap)
+  Resource id:  0x300003a
+X Error: BadPixmap (invalid Pixmap parameter) 4
+  Major opcode: 54 (X_FreePixmap)
+  Resource id:  0x300003b
+X Error: BadPixmap (invalid Pixmap parameter) 4
+  Major opcode: 54 (X_FreePixmap)
+  Resource id:  0x300003c
+06/03/20 10:10:25 Client 10.32.25.22 gone
+06/03/20 10:10:25 Statistics:
+06/03/20 10:10:25   key events received 114, pointer events 13150
+06/03/20 10:10:25   framebuffer updates 2537, rectangles 7374, bytes 30355124
+06/03/20 10:10:25     cursor shape updates 403, bytes 510172
+06/03/20 10:10:25     raw rectangles 1, bytes 16396
+06/03/20 10:10:25     copyRect rectangles 548, bytes 8768
+06/03/20 10:10:25     hextile rectangles 6073, bytes 29399152
+06/03/20 10:10:25     zlib rectangles 349, bytes 420636
+06/03/20 10:10:25   raw bytes equivalent 524331584, compression ratio 17.573681
+
+06/03/20 10:10:30 Got connection from client 10.32.25.22
+06/03/20 10:10:30 Using protocol version 3.8
+06/03/20 10:10:38 Full-control authentication passed by 10.32.25.22
+06/03/20 10:10:38 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+06/03/20 10:10:38 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+06/03/20 10:10:38 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+06/03/20 10:10:38 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+06/03/20 10:10:38 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+06/03/20 10:10:38 Using zlib encoding for client 10.32.25.22
+06/03/20 10:10:38 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+06/03/20 10:10:38 Enabling full-color cursor updates for client 10.32.25.22
+06/03/20 10:10:38 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+06/03/20 10:10:38 Pixel format for client 10.32.25.22:
+06/03/20 10:10:38   8 bpp, depth 6
+06/03/20 10:10:38   true colour: max r 3 g 3 b 3, shift r 4 g 2 b 0
+06/03/20 10:10:38 Using raw encoding for client 10.32.25.22
+06/03/20 10:10:38 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+06/03/20 10:10:38 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+06/03/20 10:10:38 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+06/03/20 10:10:38 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+06/03/20 10:10:38 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+06/03/20 10:10:38 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+06/03/20 10:10:38 Enabling full-color cursor updates for client 10.32.25.22
+06/03/20 10:10:38 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+06/03/20 10:10:38 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+06/03/20 10:10:38 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+06/03/20 10:10:38 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+06/03/20 10:10:38 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+06/03/20 10:10:38 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+06/03/20 10:10:38 Using zlib encoding for client 10.32.25.22
+06/03/20 10:10:38 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+06/03/20 10:10:38 Enabling full-color cursor updates for client 10.32.25.22
+06/03/20 10:10:38 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+06/03/20 10:10:38 Pixel format for client 10.32.25.22:
+06/03/20 10:10:38   32 bpp, depth 24, little endian
+06/03/20 10:10:38   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+06/03/20 10:10:38   no translation needed
+06/03/20 10:17:57 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+06/03/20 10:17:57 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+06/03/20 10:17:57 Using hextile encoding for client 10.32.25.22
+06/03/20 10:17:57 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+06/03/20 10:17:57 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+06/03/20 10:17:57 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+06/03/20 10:17:57 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+06/03/20 10:17:57 Enabling full-color cursor updates for client 10.32.25.22
+06/03/20 10:17:57 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Permission denied
+You do not have permission to create a usershare. Ask your administrator to grant you permissions to create a share.
+
+Xlib:  extension "XINERAMA" missing on display ":7".
+Xlib:  extension "RANDR" missing on display ":7".
+
+(soffice:208266): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+:1: parser error : Document is empty
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDIQYYN11bplgF25bBBenB1T9KY2HbB0j9tR7twHwkj
+^
+:1: parser error : Document is empty
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDIQYYN11bplgF25bBBenB1T9KY2HbB0j9tR7twHwkj
+^
+:1: parser error : Document is empty
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDIQYYN11bplgF25bBBenB1T9KY2HbB0j9tR7twHwkj
+^
+
+(soffice:208266): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+
+(soffice:208266): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Permission denied
+You do not have permission to create a usershare. Ask your administrator to grant you permissions to create a share.
+
+
+** (nautilus:395761): WARNING **: bookmark uri is file:///home/nichole/Desktop, but expected file:///home/nichole
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Permission denied
+You do not have permission to create a usershare. Ask your administrator to grant you permissions to create a share.
+
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Permission denied
+You do not have permission to create a usershare. Ask your administrator to grant you permissions to create a share.
+
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+
+06/03/20 10:39:46 Got connection from client 10.32.25.10
+06/03/20 10:39:46   (other clients 10.32.25.22)
+06/03/20 10:39:46 Using protocol version 3.8
+06/03/20 10:39:46 Full-control authentication passed by 10.32.25.10
+06/03/20 10:39:46 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+06/03/20 10:39:46 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+06/03/20 10:39:46 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+06/03/20 10:39:46 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+06/03/20 10:39:46 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+06/03/20 10:39:46 Using zlib encoding for client 10.32.25.10
+06/03/20 10:39:46 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+06/03/20 10:39:46 Enabling full-color cursor updates for client 10.32.25.10
+06/03/20 10:39:46 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+06/03/20 10:39:46 Pixel format for client 10.32.25.10:
+06/03/20 10:39:46   8 bpp, depth 6
+06/03/20 10:39:46   true colour: max r 3 g 3 b 3, shift r 4 g 2 b 0
+06/03/20 10:39:46 Using raw encoding for client 10.32.25.10
+06/03/20 10:39:46 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+06/03/20 10:39:46 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+06/03/20 10:39:46 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+06/03/20 10:39:46 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+06/03/20 10:39:46 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+06/03/20 10:39:46 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+06/03/20 10:39:46 Enabling full-color cursor updates for client 10.32.25.10
+06/03/20 10:39:46 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+06/03/20 10:39:46 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+06/03/20 10:39:46 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+06/03/20 10:39:46 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+06/03/20 10:39:46 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+06/03/20 10:39:46 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+06/03/20 10:39:46 Using zlib encoding for client 10.32.25.10
+06/03/20 10:39:46 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+06/03/20 10:39:46 Enabling full-color cursor updates for client 10.32.25.10
+06/03/20 10:39:46 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+06/03/20 10:39:46 Pixel format for client 10.32.25.10:
+06/03/20 10:39:46   32 bpp, depth 24, little endian
+06/03/20 10:39:46   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+06/03/20 10:39:46   no translation needed
+06/03/20 10:55:32 rfbProcessClientNormalMessage: read: Connection timed out
+06/03/20 10:55:32 Client 10.32.25.22 gone
+06/03/20 10:55:32 Statistics:
+06/03/20 10:55:32   key events received 2, pointer events 8894
+06/03/20 10:55:32   framebuffer updates 1383, rectangles 3579, bytes 31281359
+06/03/20 10:55:32     cursor shape updates 123, bytes 134118
+06/03/20 10:55:32     raw rectangles 1, bytes 16396
+06/03/20 10:55:32     copyRect rectangles 270, bytes 4320
+06/03/20 10:55:32     hextile rectangles 3099, bytes 30876832
+06/03/20 10:55:32     zlib rectangles 86, bytes 249693
+06/03/20 10:55:32   raw bytes equivalent 395478264, compression ratio 12.698817
+
+** (gedit:210630): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-spell-enabled not supported
+
+** (gedit:210630): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-encoding not supported
+
+** (gedit:210630): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-spell-enabled not supported
+
+** (gedit:210630): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-encoding not supported
+
+** (gedit:210630): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-position not supported
+
+06/03/20 10:57:38 Got connection from client 10.32.25.22
+06/03/20 10:57:38   (other clients 10.32.25.10)
+06/03/20 10:57:38 Using protocol version 3.8
+06/03/20 10:57:38 Full-control authentication passed by 10.32.25.22
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+06/03/20 10:57:38 Using zlib encoding for client 10.32.25.22
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+06/03/20 10:57:38 Enabling full-color cursor updates for client 10.32.25.22
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+06/03/20 10:57:38 Pixel format for client 10.32.25.22:
+06/03/20 10:57:38   8 bpp, depth 6
+06/03/20 10:57:38   true colour: max r 3 g 3 b 3, shift r 4 g 2 b 0
+06/03/20 10:57:38 Using raw encoding for client 10.32.25.22
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+06/03/20 10:57:38 Enabling full-color cursor updates for client 10.32.25.22
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+06/03/20 10:57:38 Using zlib encoding for client 10.32.25.22
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+06/03/20 10:57:38 Enabling full-color cursor updates for client 10.32.25.22
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+06/03/20 10:57:38 Pixel format for client 10.32.25.22:
+06/03/20 10:57:38   32 bpp, depth 24, little endian
+06/03/20 10:57:38   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+06/03/20 10:57:38   no translation needed
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+06/03/20 10:57:38 Using hextile encoding for client 10.32.25.22
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+06/03/20 10:57:38 Enabling full-color cursor updates for client 10.32.25.22
+06/03/20 10:57:38 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+06/03/20 11:15:31 rfbProcessClientNormalMessage: read: Connection timed out
+06/03/20 11:15:31 Client 10.32.25.10 gone
+06/03/20 11:15:31 Statistics:
+06/03/20 11:15:31   key events received 4, pointer events 790
+06/03/20 11:15:31   framebuffer updates 87, rectangles 409, bytes 935262
+06/03/20 11:15:31     cursor shape updates 13, bytes 13428
+06/03/20 11:15:31     raw rectangles 10, bytes 16648
+06/03/20 11:15:31     zlib rectangles 386, bytes 905186
+06/03/20 11:15:31   raw bytes equivalent 34474864, compression ratio 37.398126
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Permission denied
+You do not have permission to create a usershare. Ask your administrator to grant you permissions to create a share.
+
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Permission denied
+You do not have permission to create a usershare. Ask your administrator to grant you permissions to create a share.
+
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Permission denied
+You do not have permission to create a usershare. Ask your administrator to grant you permissions to create a share.
+
+
+06/03/20 14:22:58 Got connection from client 10.32.25.10
+06/03/20 14:22:58   (other clients 10.32.25.22)
+06/03/20 14:22:58 Using protocol version 3.8
+06/03/20 14:22:58 Full-control authentication passed by 10.32.25.10
+06/03/20 14:22:58 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+06/03/20 14:22:58 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+06/03/20 14:22:58 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+06/03/20 14:22:58 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+06/03/20 14:22:58 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+06/03/20 14:22:58 Using zlib encoding for client 10.32.25.10
+06/03/20 14:22:58 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+06/03/20 14:22:58 Enabling full-color cursor updates for client 10.32.25.10
+06/03/20 14:22:58 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+06/03/20 14:22:58 Pixel format for client 10.32.25.10:
+06/03/20 14:22:58   8 bpp, depth 6
+06/03/20 14:22:58   true colour: max r 3 g 3 b 3, shift r 4 g 2 b 0
+06/03/20 14:22:59 Using raw encoding for client 10.32.25.10
+06/03/20 14:22:59 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+06/03/20 14:22:59 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+06/03/20 14:22:59 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+06/03/20 14:22:59 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+06/03/20 14:22:59 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+06/03/20 14:22:59 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+06/03/20 14:22:59 Enabling full-color cursor updates for client 10.32.25.10
+06/03/20 14:22:59 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+06/03/20 14:22:59 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+06/03/20 14:22:59 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+06/03/20 14:22:59 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+06/03/20 14:22:59 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+06/03/20 14:22:59 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+06/03/20 14:22:59 Using zlib encoding for client 10.32.25.10
+06/03/20 14:22:59 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+06/03/20 14:22:59 Enabling full-color cursor updates for client 10.32.25.10
+06/03/20 14:22:59 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+06/03/20 14:22:59 Pixel format for client 10.32.25.10:
+06/03/20 14:22:59   32 bpp, depth 24, little endian
+06/03/20 14:22:59   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+06/03/20 14:22:59   no translation needed
+06/03/20 14:25:52 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+06/03/20 14:25:52 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+06/03/20 14:25:52 Using hextile encoding for client 10.32.25.10
+06/03/20 14:25:52 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+06/03/20 14:25:52 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+06/03/20 14:25:52 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+06/03/20 14:25:52 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+06/03/20 14:25:52 Enabling full-color cursor updates for client 10.32.25.10
+06/03/20 14:25:52 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+06/03/20 14:41:21 rfbProcessClientNormalMessage: read: Connection timed out
+06/03/20 14:41:21 Client 10.32.25.22 gone
+06/03/20 14:41:21 Statistics:
+06/03/20 14:41:21   key events received 149, pointer events 3401
+06/03/20 14:41:21   framebuffer updates 1181, rectangles 3013, bytes 21437958
+06/03/20 14:41:21     cursor shape updates 74, bytes 67746
+06/03/20 14:41:21     raw rectangles 1, bytes 16396
+06/03/20 14:41:21     copyRect rectangles 275, bytes 4400
+06/03/20 14:41:21     hextile rectangles 2615, bytes 21169115
+06/03/20 14:41:21     zlib rectangles 48, bytes 180301
+06/03/20 14:41:21   raw bytes equivalent 250307088, compression ratio 11.715309
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Permission denied
+You do not have permission to create a usershare. Ask your administrator to grant you permissions to create a share.
+
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Permission denied
+You do not have permission to create a usershare. Ask your administrator to grant you permissions to create a share.
+
+
+** (gedit:281456): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-position not supported
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Permission denied
+You do not have permission to create a usershare. Ask your administrator to grant you permissions to create a share.
+
+
+06/03/20 15:53:16 Got connection from client 10.32.25.22
+06/03/20 15:53:16   (other clients 10.32.25.10)
+06/03/20 15:53:16 Using protocol version 3.8
+06/03/20 15:53:16 Full-control authentication passed by 10.32.25.22
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+06/03/20 15:53:16 Using zlib encoding for client 10.32.25.22
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+06/03/20 15:53:16 Enabling full-color cursor updates for client 10.32.25.22
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+06/03/20 15:53:16 Pixel format for client 10.32.25.22:
+06/03/20 15:53:16   8 bpp, depth 6
+06/03/20 15:53:16   true colour: max r 3 g 3 b 3, shift r 4 g 2 b 0
+06/03/20 15:53:16 Using raw encoding for client 10.32.25.22
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+06/03/20 15:53:16 Enabling full-color cursor updates for client 10.32.25.22
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+06/03/20 15:53:16 Using zlib encoding for client 10.32.25.22
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+06/03/20 15:53:16 Enabling full-color cursor updates for client 10.32.25.22
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+06/03/20 15:53:16 Pixel format for client 10.32.25.22:
+06/03/20 15:53:16   32 bpp, depth 24, little endian
+06/03/20 15:53:16   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+06/03/20 15:53:16   no translation needed
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+06/03/20 15:53:16 Using hextile encoding for client 10.32.25.22
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+06/03/20 15:53:16 Enabling full-color cursor updates for client 10.32.25.22
+06/03/20 15:53:16 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+06/03/20 15:55:11 Client 10.32.25.22 gone
+06/03/20 15:55:11 Statistics:
+06/03/20 15:55:11   key events received 0, pointer events 28
+06/03/20 15:55:11   framebuffer updates 6, rectangles 55, bytes 273735
+06/03/20 15:55:11     cursor shape updates 4, bytes 1776
+06/03/20 15:55:11     raw rectangles 1, bytes 16396
+06/03/20 15:55:11     hextile rectangles 2, bytes 2200
+06/03/20 15:55:11     zlib rectangles 48, bytes 253363
+06/03/20 15:55:11   raw bytes equivalent 3973756, compression ratio 14.611600
+
+06/03/20 16:03:52 Got connection from client 10.32.25.22
+06/03/20 16:03:52   (other clients 10.32.25.10)
+06/03/20 16:03:52 Using protocol version 3.8
+06/03/20 16:04:01 Full-control authentication passed by 10.32.25.22
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+06/03/20 16:04:01 Using zlib encoding for client 10.32.25.22
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+06/03/20 16:04:01 Enabling full-color cursor updates for client 10.32.25.22
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+06/03/20 16:04:01 Pixel format for client 10.32.25.22:
+06/03/20 16:04:01   8 bpp, depth 6
+06/03/20 16:04:01   true colour: max r 3 g 3 b 3, shift r 4 g 2 b 0
+06/03/20 16:04:01 Using raw encoding for client 10.32.25.22
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+06/03/20 16:04:01 Enabling full-color cursor updates for client 10.32.25.22
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+06/03/20 16:04:01 Using zlib encoding for client 10.32.25.22
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+06/03/20 16:04:01 Enabling full-color cursor updates for client 10.32.25.22
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+06/03/20 16:04:01 Pixel format for client 10.32.25.22:
+06/03/20 16:04:01   32 bpp, depth 24, little endian
+06/03/20 16:04:01   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+06/03/20 16:04:01   no translation needed
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+06/03/20 16:04:01 Using hextile encoding for client 10.32.25.22
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+06/03/20 16:04:01 Enabling full-color cursor updates for client 10.32.25.22
+06/03/20 16:04:01 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+06/03/20 16:10:42 rfbProcessClientNormalMessage: read: Connection timed out
+06/03/20 16:10:42 Client 10.32.25.10 gone
+06/03/20 16:10:42 Statistics:
+06/03/20 16:10:42   key events received 0, pointer events 7302
+06/03/20 16:10:42   framebuffer updates 39538, rectangles 40995, bytes 1011592414
+06/03/20 16:10:42     cursor shape updates 56, bytes 60536
+06/03/20 16:10:42     raw rectangles 1, bytes 16396
+06/03/20 16:10:42     copyRect rectangles 16, bytes 256
+06/03/20 16:10:42     hextile rectangles 40847, bytes 1011159894
+06/03/20 16:10:42     zlib rectangles 75, bytes 355332
+06/03/20 16:10:42   raw bytes equivalent -1651613864, compression ratio -1.632785
+
+** (gedit:51951): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-position not supported
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Permission denied
+You do not have permission to create a usershare. Ask your administrator to grant you permissions to create a share.
+
+
+** (gedit:351580): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-position not supported
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Permission denied
+You do not have permission to create a usershare. Ask your administrator to grant you permissions to create a share.
+
+06/03/20 18:24:48 rfbProcessClientNormalMessage: read: Connection timed out
+06/03/20 18:24:48 Client 10.32.25.22 gone
+06/03/20 18:24:48 Statistics:
+06/03/20 18:24:48   key events received 0, pointer events 6473
+06/03/20 18:24:48   framebuffer updates 57574, rectangles 59403, bytes 1492308606
+06/03/20 18:24:48     cursor shape updates 99, bytes 114656
+06/03/20 18:24:48     raw rectangles 1, bytes 16396
+06/03/20 18:24:48     copyRect rectangles 203, bytes 3248
+06/03/20 18:24:48     hextile rectangles 59052, bytes 1491920943
+06/03/20 18:24:48     zlib rectangles 48, bytes 253363
+06/03/20 18:24:48   raw bytes equivalent -496984528, compression ratio -0.333057
+
+07/03/20 00:09:26 Got connection from client 10.32.25.22
+07/03/20 00:09:26 Using protocol version 3.8
+07/03/20 00:09:26 Full-control authentication passed by 10.32.25.22
+07/03/20 00:09:26 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+07/03/20 00:09:26 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+07/03/20 00:09:26 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+07/03/20 00:09:26 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+07/03/20 00:09:26 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+07/03/20 00:09:26 Using zlib encoding for client 10.32.25.22
+07/03/20 00:09:26 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+07/03/20 00:09:26 Enabling full-color cursor updates for client 10.32.25.22
+07/03/20 00:09:26 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+07/03/20 00:09:26 Pixel format for client 10.32.25.22:
+07/03/20 00:09:26   8 bpp, depth 6
+07/03/20 00:09:26   true colour: max r 3 g 3 b 3, shift r 4 g 2 b 0
+07/03/20 00:09:26 Using raw encoding for client 10.32.25.22
+07/03/20 00:09:26 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+07/03/20 00:09:26 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+07/03/20 00:09:26 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+07/03/20 00:09:26 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+07/03/20 00:09:26 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+07/03/20 00:09:26 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+07/03/20 00:09:26 Enabling full-color cursor updates for client 10.32.25.22
+07/03/20 00:09:26 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+07/03/20 00:09:26 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+07/03/20 00:09:26 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+07/03/20 00:09:26 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+07/03/20 00:09:26 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+07/03/20 00:09:26 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+07/03/20 00:09:26 Using zlib encoding for client 10.32.25.22
+07/03/20 00:09:26 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+07/03/20 00:09:26 Enabling full-color cursor updates for client 10.32.25.22
+07/03/20 00:09:26 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+07/03/20 00:09:26 Pixel format for client 10.32.25.22:
+07/03/20 00:09:26   32 bpp, depth 24, little endian
+07/03/20 00:09:26   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+07/03/20 00:09:26   no translation needed
+07/03/20 00:09:27 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+07/03/20 00:09:27 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+07/03/20 00:09:27 Using hextile encoding for client 10.32.25.22
+07/03/20 00:09:27 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+07/03/20 00:09:27 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+07/03/20 00:09:27 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+07/03/20 00:09:27 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+07/03/20 00:09:27 Enabling full-color cursor updates for client 10.32.25.22
+07/03/20 00:09:27 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+
+07/03/20 00:18:32 Got connection from client 10.32.25.10
+07/03/20 00:18:32   (other clients 10.32.25.22)
+07/03/20 00:18:32 Using protocol version 3.8
+07/03/20 00:18:32 Full-control authentication passed by 10.32.25.10
+07/03/20 00:18:32 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+07/03/20 00:18:32 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+07/03/20 00:18:32 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+07/03/20 00:18:32 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+07/03/20 00:18:32 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+07/03/20 00:18:32 Using zlib encoding for client 10.32.25.10
+07/03/20 00:18:32 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+07/03/20 00:18:32 Enabling full-color cursor updates for client 10.32.25.10
+07/03/20 00:18:32 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+07/03/20 00:18:32 Pixel format for client 10.32.25.10:
+07/03/20 00:18:32   8 bpp, depth 6
+07/03/20 00:18:32   true colour: max r 3 g 3 b 3, shift r 4 g 2 b 0
+07/03/20 00:18:32 Using raw encoding for client 10.32.25.10
+07/03/20 00:18:32 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+07/03/20 00:18:32 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+07/03/20 00:18:32 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+07/03/20 00:18:32 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+07/03/20 00:18:32 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+07/03/20 00:18:32 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+07/03/20 00:18:32 Enabling full-color cursor updates for client 10.32.25.10
+07/03/20 00:18:32 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+07/03/20 00:18:32 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+07/03/20 00:18:32 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+07/03/20 00:18:32 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+07/03/20 00:18:32 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+07/03/20 00:18:32 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+07/03/20 00:18:32 Using zlib encoding for client 10.32.25.10
+07/03/20 00:18:32 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+07/03/20 00:18:32 Enabling full-color cursor updates for client 10.32.25.10
+07/03/20 00:18:32 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+07/03/20 00:18:32 Pixel format for client 10.32.25.10:
+07/03/20 00:18:32   32 bpp, depth 24, little endian
+07/03/20 00:18:32   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+07/03/20 00:18:32   no translation needed
+07/03/20 00:18:34 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+07/03/20 00:18:34 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+07/03/20 00:18:34 Using hextile encoding for client 10.32.25.10
+07/03/20 00:18:34 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+07/03/20 00:18:34 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+07/03/20 00:18:34 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+07/03/20 00:18:34 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+07/03/20 00:18:34 Enabling full-color cursor updates for client 10.32.25.10
+07/03/20 00:18:34 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+07/03/20 00:25:01 rfbProcessClientNormalMessage: read: Connection timed out
+07/03/20 00:25:01 Client 10.32.25.22 gone
+07/03/20 00:25:01 Statistics:
+07/03/20 00:25:01   framebuffer updates 48, rectangles 98, bytes 1414901
+07/03/20 00:25:01     cursor shape updates 4, bytes 1776
+07/03/20 00:25:01     raw rectangles 1, bytes 16396
+07/03/20 00:25:01     hextile rectangles 45, bytes 1158098
+07/03/20 00:25:01     zlib rectangles 48, bytes 238631
+07/03/20 00:25:01   raw bytes equivalent 6678932, compression ratio 4.726356
+07/03/20 00:43:35 rfbProcessClientNormalMessage: read: Connection timed out
+07/03/20 00:43:35 Client 10.32.25.10 gone
+07/03/20 00:43:35 Statistics:
+07/03/20 00:43:35   framebuffer updates 5439, rectangles 5488, bytes 141219112
+07/03/20 00:43:35     cursor shape updates 4, bytes 1776
+07/03/20 00:43:35     raw rectangles 1, bytes 16396
+07/03/20 00:43:35     hextile rectangles 5412, bytes 140791460
+07/03/20 00:43:35     zlib rectangles 71, bytes 409480
+07/03/20 00:43:35   raw bytes equivalent 337051940, compression ratio 2.386760
+
+09/03/20 08:20:59 Got connection from client 10.32.25.22
+09/03/20 08:21:00 Using protocol version 3.8
+09/03/20 08:21:01 Full-control authentication passed by 10.32.25.22
+09/03/20 08:21:01 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+09/03/20 08:21:01 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+09/03/20 08:21:01 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+09/03/20 08:21:01 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+09/03/20 08:21:01 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+09/03/20 08:21:01 Using zlib encoding for client 10.32.25.22
+09/03/20 08:21:01 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+09/03/20 08:21:01 Enabling full-color cursor updates for client 10.32.25.22
+09/03/20 08:21:01 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+09/03/20 08:21:01 Pixel format for client 10.32.25.22:
+09/03/20 08:21:01   8 bpp, depth 6
+09/03/20 08:21:01   true colour: max r 3 g 3 b 3, shift r 4 g 2 b 0
+09/03/20 08:21:01 Using raw encoding for client 10.32.25.22
+09/03/20 08:21:01 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+09/03/20 08:21:01 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+09/03/20 08:21:01 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+09/03/20 08:21:01 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+09/03/20 08:21:01 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+09/03/20 08:21:01 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+09/03/20 08:21:01 Enabling full-color cursor updates for client 10.32.25.22
+09/03/20 08:21:01 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+09/03/20 08:21:01 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+09/03/20 08:21:01 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+09/03/20 08:21:01 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+09/03/20 08:21:01 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+09/03/20 08:21:01 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+09/03/20 08:21:01 Using zlib encoding for client 10.32.25.22
+09/03/20 08:21:01 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+09/03/20 08:21:01 Enabling full-color cursor updates for client 10.32.25.22
+09/03/20 08:21:01 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+09/03/20 08:21:01 Pixel format for client 10.32.25.22:
+09/03/20 08:21:01   32 bpp, depth 24, little endian
+09/03/20 08:21:01   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+09/03/20 08:21:01   no translation needed
+09/03/20 08:21:32 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+09/03/20 08:21:32 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+09/03/20 08:21:32 Using hextile encoding for client 10.32.25.22
+09/03/20 08:21:32 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+09/03/20 08:21:32 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+09/03/20 08:21:32 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+09/03/20 08:21:32 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+09/03/20 08:21:32 Enabling full-color cursor updates for client 10.32.25.22
+09/03/20 08:21:32 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Xlib:  extension "XInputExtension" missing on display ":7".
+Window manager warning: Invalid WM_TRANSIENT_FOR window 0x3000002 specified for 0x3000001 (git-cola).
+Xlib:  extension "RANDR" missing on display ":7".
+Failed to connect to session manager: Failed to connect to the session manager: SESSION_MANAGER environment variable not defined
+09/03/20 09:17:19 Client 10.32.25.22 gone
+09/03/20 09:17:19 Statistics:
+09/03/20 09:17:19   key events received 0, pointer events 4419
+09/03/20 09:17:19   framebuffer updates 4599, rectangles 5829, bytes 111361621
+09/03/20 09:17:19     cursor shape updates 78, bytes 71932
+09/03/20 09:17:19     raw rectangles 1, bytes 16396
+09/03/20 09:17:19     copyRect rectangles 178, bytes 2848
+09/03/20 09:17:19     hextile rectangles 5058, bytes 107570361
+09/03/20 09:17:19     zlib rectangles 514, bytes 3700084
+09/03/20 09:17:19   raw bytes equivalent 398683496, compression ratio 3.582486
+
+09/03/20 09:17:22 Got connection from client 10.32.25.22
+09/03/20 09:17:22 Using protocol version 3.8
+09/03/20 09:17:27 rfbVncAuthProcessResponse: authentication failed from 10.32.25.22
+09/03/20 09:17:27 Client 10.32.25.22 gone
+09/03/20 09:17:27 Statistics:
+09/03/20 09:17:27   framebuffer updates 0, rectangles 0, bytes 0
+
+09/03/20 09:17:29 Got connection from client 10.32.25.22
+09/03/20 09:17:29 Using protocol version 3.8
+09/03/20 09:17:33 rfbVncAuthProcessResponse: authentication failed from 10.32.25.22
+09/03/20 09:17:33 Client 10.32.25.22 gone
+09/03/20 09:17:33 Statistics:
+09/03/20 09:17:33   framebuffer updates 0, rectangles 0, bytes 0
+
+09/03/20 09:17:35 Got connection from client 10.32.25.22
+09/03/20 09:17:35 Using protocol version 3.8
+09/03/20 09:17:39 Full-control authentication passed by 10.32.25.22
+09/03/20 09:17:39 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+09/03/20 09:17:39 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+09/03/20 09:17:39 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+09/03/20 09:17:39 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+09/03/20 09:17:39 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+09/03/20 09:17:39 Using zlib encoding for client 10.32.25.22
+09/03/20 09:17:39 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+09/03/20 09:17:39 Enabling full-color cursor updates for client 10.32.25.22
+09/03/20 09:17:39 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+09/03/20 09:17:39 Pixel format for client 10.32.25.22:
+09/03/20 09:17:39   8 bpp, depth 6
+09/03/20 09:17:39   true colour: max r 3 g 3 b 3, shift r 4 g 2 b 0
+09/03/20 09:17:39 Using raw encoding for client 10.32.25.22
+09/03/20 09:17:39 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+09/03/20 09:17:39 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+09/03/20 09:17:39 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+09/03/20 09:17:39 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+09/03/20 09:17:39 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+09/03/20 09:17:39 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+09/03/20 09:17:39 Enabling full-color cursor updates for client 10.32.25.22
+09/03/20 09:17:39 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+09/03/20 09:17:39 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+09/03/20 09:17:39 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+09/03/20 09:17:39 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+09/03/20 09:17:39 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+09/03/20 09:17:39 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+09/03/20 09:17:39 Using zlib encoding for client 10.32.25.22
+09/03/20 09:17:39 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+09/03/20 09:17:39 Enabling full-color cursor updates for client 10.32.25.22
+09/03/20 09:17:39 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+09/03/20 09:17:39 Pixel format for client 10.32.25.22:
+09/03/20 09:17:39   32 bpp, depth 24, little endian
+09/03/20 09:17:39   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+09/03/20 09:17:39   no translation needed
+09/03/20 09:17:42 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+09/03/20 09:17:42 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+09/03/20 09:17:42 Using hextile encoding for client 10.32.25.22
+09/03/20 09:17:42 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+09/03/20 09:17:42 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+09/03/20 09:17:42 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+09/03/20 09:17:42 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+09/03/20 09:17:42 Enabling full-color cursor updates for client 10.32.25.22
+09/03/20 09:17:42 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+Xlib:  extension "RANDR" missing on display ":7".
+Failed to connect to session manager: Failed to connect to the session manager: SESSION_MANAGER environment variable not defined
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Permission denied
+You do not have permission to create a usershare. Ask your administrator to grant you permissions to create a share.
+
+
+** (gedit:53929): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-position not supported
+Xlib:  extension "RANDR" missing on display ":7".
+Failed to connect to session manager: Failed to connect to the session manager: SESSION_MANAGER environment variable not defined
