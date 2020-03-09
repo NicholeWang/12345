@@ -972,3 +972,177 @@ You do not have permission to create a usershare. Ask your administrator to gran
 ** (gedit:53929): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-position not supported
 Xlib:  extension "RANDR" missing on display ":7".
 Failed to connect to session manager: Failed to connect to the session manager: SESSION_MANAGER environment variable not defined
+
+(xfce4-terminal:54022): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+09/03/20 10:04:15 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+09/03/20 10:04:15 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+09/03/20 10:04:15 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+09/03/20 10:04:15 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+09/03/20 10:04:15 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+09/03/20 10:04:15 Using zlib encoding for client 10.32.25.22
+09/03/20 10:04:15 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+09/03/20 10:04:15 Enabling full-color cursor updates for client 10.32.25.22
+09/03/20 10:04:15 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+
+09/03/20 10:40:12 Got connection from client 10.32.25.76
+09/03/20 10:40:12   (other clients 10.32.25.22)
+09/03/20 10:40:13 Using protocol version 3.8
+09/03/20 10:40:13 Full-control authentication passed by 10.32.25.76
+09/03/20 10:40:13 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+09/03/20 10:40:13 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+09/03/20 10:40:13 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+09/03/20 10:40:13 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+09/03/20 10:40:13 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+09/03/20 10:40:13 Using zlib encoding for client 10.32.25.76
+09/03/20 10:40:13 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+09/03/20 10:40:13 Enabling full-color cursor updates for client 10.32.25.76
+09/03/20 10:40:13 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+09/03/20 10:40:13 Pixel format for client 10.32.25.76:
+09/03/20 10:40:13   8 bpp, depth 6
+09/03/20 10:40:13   true colour: max r 3 g 3 b 3, shift r 4 g 2 b 0
+09/03/20 10:40:13 Using raw encoding for client 10.32.25.76
+09/03/20 10:40:13 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+09/03/20 10:40:13 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+09/03/20 10:40:13 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+09/03/20 10:40:13 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+09/03/20 10:40:13 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+09/03/20 10:40:13 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+09/03/20 10:40:13 Enabling full-color cursor updates for client 10.32.25.76
+09/03/20 10:40:13 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+09/03/20 10:40:13 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+09/03/20 10:40:13 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+09/03/20 10:40:13 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+09/03/20 10:40:13 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+09/03/20 10:40:13 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+09/03/20 10:40:13 Using zlib encoding for client 10.32.25.76
+09/03/20 10:40:13 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+09/03/20 10:40:13 Enabling full-color cursor updates for client 10.32.25.76
+09/03/20 10:40:13 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+09/03/20 10:40:13 Pixel format for client 10.32.25.76:
+09/03/20 10:40:13   32 bpp, depth 24, little endian
+09/03/20 10:40:13   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+09/03/20 10:40:13   no translation needed
+
+09/03/20 10:47:14 Got connection from client 10.32.25.22
+09/03/20 10:47:14   (other clients 10.32.25.76 10.32.25.22)
+09/03/20 10:47:14 Using protocol version 3.8
+09/03/20 10:47:14 Full-control authentication passed by 10.32.25.22
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+09/03/20 10:47:14 Using zlib encoding for client 10.32.25.22
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+09/03/20 10:47:14 Enabling full-color cursor updates for client 10.32.25.22
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+09/03/20 10:47:14 Pixel format for client 10.32.25.22:
+09/03/20 10:47:14   8 bpp, depth 6
+09/03/20 10:47:14   true colour: max r 3 g 3 b 3, shift r 4 g 2 b 0
+09/03/20 10:47:14 Using raw encoding for client 10.32.25.22
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+09/03/20 10:47:14 Enabling full-color cursor updates for client 10.32.25.22
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+09/03/20 10:47:14 Using zlib encoding for client 10.32.25.22
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+09/03/20 10:47:14 Enabling full-color cursor updates for client 10.32.25.22
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+09/03/20 10:47:14 Pixel format for client 10.32.25.22:
+09/03/20 10:47:14   32 bpp, depth 24, little endian
+09/03/20 10:47:14   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+09/03/20 10:47:14   no translation needed
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+09/03/20 10:47:14 Using hextile encoding for client 10.32.25.22
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+09/03/20 10:47:14 Enabling full-color cursor updates for client 10.32.25.22
+09/03/20 10:47:14 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+Xlib:  extension "XInputExtension" missing on display ":7".
+Window manager warning: Invalid WM_TRANSIENT_FOR window 0x3400002 specified for 0x3400001 (git-cola).
+Xlib:  extension "XInputExtension" missing on display ":7".
+Window manager warning: Invalid WM_TRANSIENT_FOR window 0x3400002 specified for 0x3400001 (git-cola).
+X Error: BadValue (integer parameter out of range for operation) 2
+  Major opcode: 53 (X_CreatePixmap)
+  Resource id:  0x20
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 55 (X_CreateGC)
+  Resource id:  0x3400021
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 72 (X_PutImage)
+  Resource id:  0x3400021
+X Error: BadValue (integer parameter out of range for operation) 2
+  Major opcode: 53 (X_CreatePixmap)
+  Resource id:  0x20
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 72 (X_PutImage)
+  Resource id:  0x3400023
+X Error: BadValue (integer parameter out of range for operation) 2
+  Major opcode: 53 (X_CreatePixmap)
+  Resource id:  0x20
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 72 (X_PutImage)
+  Resource id:  0x3400024
+X Error: BadValue (integer parameter out of range for operation) 2
+  Major opcode: 53 (X_CreatePixmap)
+  Resource id:  0x20
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 72 (X_PutImage)
+  Resource id:  0x3400025
+X Error: BadValue (integer parameter out of range for operation) 2
+  Major opcode: 53 (X_CreatePixmap)
+  Resource id:  0x20
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 72 (X_PutImage)
+  Resource id:  0x3400026
+X Error: BadValue (integer parameter out of range for operation) 2
+  Major opcode: 53 (X_CreatePixmap)
+  Resource id:  0x20
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 72 (X_PutImage)
+  Resource id:  0x3400027
+X Error: BadValue (integer parameter out of range for operation) 2
+  Major opcode: 53 (X_CreatePixmap)
+  Resource id:  0x20
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 72 (X_PutImage)
+  Resource id:  0x3400028
+X Error: BadValue (integer parameter out of range for operation) 2
+  Major opcode: 53 (X_CreatePixmap)
+  Resource id:  0x20
+X Error: BadDrawable (invalid Pixmap or Window parameter) 9
+  Major opcode: 72 (X_PutImage)
+  Resource id:  0x3400029
+Window manager warning: Invalid WM_TRANSIENT_FOR window 0x3400002 specified for 0x3400042 (Find Directory).
+X Error: BadValue (integer parameter out of range for operation) 2
+  Extension:    128 (Uknown extension)
+  Minor opcode: 8 (Unknown request)
+  Resource id:  0x2
+X Error: BadValue (integer parameter out of range for operation) 2
+  Extension:    128 (Uknown extension)
+  Minor opcode: 8 (Unknown request)
+  Resource id:  0x2
+X Error: BadValue (integer parameter out of range for operation) 2
+  Extension:    128 (Uknown extension)
+  Minor opcode: 8 (Unknown request)
+  Resource id:  0x2
+X Error: BadValue (integer parameter out of range for operation) 2
+  Extension:    128 (Uknown extension)
+  Minor opcode: 8 (Unknown request)
+  Resource id:  0x2
+X Error: BadValue (integer parameter out of range for operation) 2
+  Extension:    128 (Uknown extension)
+  Minor opcode: 8 (Unknown request)
+  Resource id:  0x2

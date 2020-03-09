@@ -1,0 +1,15 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>[:<port>]	<incl. subdomains>	<created>	<max-age>
+www.kernel.org	0	0	1583485160	15768001
+nixos.org	0	0	1583485527	15552000
+matt.ucc.asn.au	0	0	1583485116	5184000
+codeload.github.com	0	0	1583483952	31536000
+sourceforge.net	0	0	1583485653	31536000
+rsync.samba.org	0	1	1583485549	63072000
+sourceware.org	0	0	1583485166	16070400
+www.sudo.ws	0	1	1583485572	15768000
+busybox.net	0	0	1583484950	63072000
+www.openssl.org	0	1	1583485638	31536000
+github.com	0	1	1583483950	31536000
+mirrors.edge.kernel.org	0	0	1583485161	15768001

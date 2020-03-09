@@ -1,0 +1,7 @@
+[http]
+	proxy = http://127.0.0.1:3128
+[url "ssh://git@github.com"]
+	insteadOf = git://github.com
+[user]
+	email = Nichole_Wang@wistron.com
+	name = Nichole

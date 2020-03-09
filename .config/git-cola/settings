@@ -1,0 +1,26 @@
+{
+    "gui_state": {
+        "mainview": {
+            "lock_layout": false, 
+            "show_status_filter": false, 
+            "height": 610, 
+            "windowstate": "AAAA/wAAAAL9AAAAAwAAAAAAAAKvAAACQvwCAAAAAvsAAAAMAEMAbwBtAG0AaQB0AQAAACAAAACtAAAAdAAAICj7AAAACABEAGkAZgBmAQAAANAAAAGSAAAAKQEAAAMAAAABAAABKQAAAkL8AgAAAAP7AAAADABTAHQAYQB0AHUAcwEAAAAgAAABIAAAAHIBAAAD+wAAABIARgBhAHYAbwByAGkAdABlAHMBAAABQwAAAR8AAAByAQAAA/sAAAAMAFIAZQBjAGUAbgB0AAAAAAD/////AAAAcgEAAAMAAAADAAAAAAAAAAD8AQAAAAH8AAAAAP////8AAAAAAP////r/////AQAAAAL7AAAADgBBAGMAdABpAG8AbgBzAAAAAAD/////AAAAoAEAAAP7AAAADgBDAG8AbgBzAG8AbABlAAAAAAD/////AAAApAEAAAMAAAAAAAACQgAAAAQAAAAEAAAACAAAAAj8AAAAAA==", 
+            "width": 987, 
+            "maximized": false, 
+            "y": 14, 
+            "x": -10
+        }, 
+        "startupdialog": {
+            "y": 144, 
+            "x": 235, 
+            "height": 384, 
+            "maximized": false, 
+            "width": 512
+        }
+    }, 
+    "bookmarks": [], 
+    "recent": [
+        "/home/nichole", 
+        "/home/nichole/test"
+    ]
+}
